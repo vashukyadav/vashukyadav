@@ -19,10 +19,11 @@
 </p>
 
 <!-- Trophies -->
-<!-- Trophies -->
+<!-- Custom Trophies -->
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=vashukyadav&theme=onedark" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vashukyadav&title=Stars,Followers&theme=onedark" alt="trophies" />
 </p>
+
 
 ---
 
