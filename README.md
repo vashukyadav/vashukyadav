@@ -20,7 +20,7 @@
 
 <!-- Trophies -->
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=vashukyadav&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="trophy" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ---
