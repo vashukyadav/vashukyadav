@@ -19,8 +19,9 @@
 </p>
 
 <!-- Trophies -->
+<!-- Trophies -->
 <p align="center"> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/?username=vashukyadav&theme=onedark" alt="trophy" />
 </p>
 
 ---
